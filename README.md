@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ardiuno based projects and c++**
 
-- 🌱 I’m currently learning **c++ , Adiuno , microcontrollers , python , c**
+- 🌱 I’m currently learning **c++ , Ardiuno , microcontrollers , python , c**
 
 - 👯 I’m looking to collaborate on **various project , internships**
 - <h2 align="left"> .</h2>
